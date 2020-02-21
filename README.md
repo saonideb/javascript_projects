@@ -1,2 +1,2 @@
-# javascript_projects
-This repo contains simple JavaScript projects
+# JavaScript_Projects
+This repository contains simple JavaScript projects
